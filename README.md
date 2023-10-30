@@ -6,7 +6,7 @@
 <h3 align="center">A passionate game, mobile and frontend developer from Belgium</h3>
 
 
-- 🔭 I’m currently working on [a sandbox game](https://github.com/oleelnes/Sandbox)
+- 🔭 I’m currently working on **improving my Unity development skills**.
 
 - 👯 I’m looking to collaborate on **websites, games, applications, etc.**
 
